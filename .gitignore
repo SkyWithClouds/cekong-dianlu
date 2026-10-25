@@ -1,0 +1,3 @@
+# Keep the locally installed plugin out of Git: its bundled OAuth credentials
+# trigger GitHub push protection.
+/.obsidian/plugins/remotely-save/
